@@ -1,0 +1,15 @@
+## Interface: 11200
+## Title: UILabels
+## Author: Alex O'Connor
+## Version: 1.0.0
+## Notes: Customizable text labels for your UI
+## SavedVariables: UILabelsDB
+## SavedVariablesPerCharacter: UILabelsCharDB
+## OptionalDeps: pfUI
+
+Defaults.lua
+Utils.lua
+Database.lua
+Labels.lua
+Config.lua
+Core.lua
