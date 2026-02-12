@@ -1,5 +1,7 @@
 # UILabels - Custom Action Bar Labels for WoW 1.12
 
+![Example Photo](UILabelsExample.png)
+
 A lightweight addon for Turtle WoW that lets you create and position custom text labels anywhere on your screen - perfect for labeling keybinds, action bars, or adding custom UI text.
 
 ## Features
